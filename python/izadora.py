@@ -12,3 +12,7 @@ maior = ordenados[2]
 print("Número menor:", menor)
 print("Número do meio:", meio)
 print("Número maior:", maior)
+
+media = (n1+n2+n3)/3
+
+print(f"A média dos valores é {media}")
